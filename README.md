@@ -27,7 +27,13 @@
 ```plaintext
 📦 C-Projects-Repository
  ┣ 📂 Mid-Semester-Syllabus
- ┃ ┣ 📜 C-Programming-Syllabus.pdf
+ ┃ ┣ 📜 Algorithm in C.pdf
+ ┃ ┣ 📜 Flowchart in C.pdf
+ ┃ ┣ 📜 History in C.pdf
+ ┃ ┣ 📜 Data Types in C.pdf
+ ┃ ┣ 📜 Logical Statements in C.pdf
+ ┃ ┣ 📜 Loop in C.pdf
+ ┃ ┣ 📜 Operators in C.pdf
  ┣ 📂 Programs
  ┃ ┣ 📜 program1.c  # Display Variables
  ┃ ┣ 📜 program2.c  # Global and Local Variables
